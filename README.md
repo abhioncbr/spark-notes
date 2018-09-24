@@ -13,3 +13,5 @@
    * Comparsion of bucketing support in hive & spark and various jira's tickets around spark sql optimization for bucketing. 
    
 4. Talk on Spark's memory model & data aware cache: [A Developer’s View into Spark's Memory Model - Wenchen Fan](https://www.youtube.com/watch?v=-Aq1LMpzaKw)
+
+5. Talk on Spark's cost based optimizer: [Cost Based Optimizer in Apache Spark 2 2 - Ron Hu & Sameer Agarwal](https://www.youtube.com/watch?v=qS_aS99TjCM)
