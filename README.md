@@ -11,3 +11,5 @@
  * Key takeaways:
    * Introduction to bucketing and how it is helping in reducing sortinf & shuffling operations done by spark sql planner.
    * Comparsion of bucketing support in hive & spark and various jira's tickets around spark sql optimization for bucketing. 
+   
+4. Talk on Spark's memory model & data aware cache: [A Developer’s View into Spark's Memory Model - Wenchen Fan](https://www.youtube.com/watch?v=-Aq1LMpzaKw)
