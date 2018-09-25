@@ -15,3 +15,5 @@
 4. Talk on Spark's memory model & data aware cache: [A Developer’s View into Spark's Memory Model - Wenchen Fan](https://www.youtube.com/watch?v=-Aq1LMpzaKw)
 
 5. Talk on Spark's cost based optimizer: [Cost Based Optimizer in Apache Spark 2 2 - Ron Hu & Sameer Agarwal](https://www.youtube.com/watch?v=qS_aS99TjCM)
+
+6. Spark Scheduler: [Apache Spark Scheduler](https://www.youtube.com/watch?v=z83CvasZEzM)
